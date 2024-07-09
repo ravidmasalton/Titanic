@@ -1,6 +1,3 @@
-# Titanic
-Titanic Survival Prediction
-
 
 # Titanic
 Titanic Survival Prediction
